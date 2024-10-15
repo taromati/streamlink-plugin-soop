@@ -8,3 +8,6 @@ Soop(구 아프리카TV) streamlink plugin
 ```
 streamlink --plugin-dirs ./plugins --ffmpeg-copyts https://play.sooplive.co.kr/{streamer-id} best -o C:\download.ts
 ```
+
+* 주의
+급한대로 기존 플러그인에서 주소만 변경한 버전으로 id/password 등 기존 옵션이 동작하는지는 검증 안함
